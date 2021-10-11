@@ -1,0 +1,16 @@
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.exe
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.deps.json
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.json
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.dev.json
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.dll
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\ref\CadastroSeries.dll
+D:\_Workshops\DIO\CadastroSeries\bin\Debug\net5.0\CadastroSeries.pdb
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.AssemblyReference.cache
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfoInputs.cache
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfo.cs
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.CoreCompileInputs.cache
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.dll
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\ref\CadastroSeries.dll
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.pdb
+D:\_Workshops\DIO\CadastroSeries\obj\Debug\net5.0\CadastroSeries.genruntimeconfig.cache
